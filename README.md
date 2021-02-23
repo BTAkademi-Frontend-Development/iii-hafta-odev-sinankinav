@@ -16,4 +16,6 @@ Kurumsal web sayfası
 
 Bir tane landing page
 
+https://github.com/sinankinav/astro
+
 Bir portfolyo sayfası hazırlayarak bunların repo linklerini ekleyiniz.
