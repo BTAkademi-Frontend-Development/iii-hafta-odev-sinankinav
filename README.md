@@ -4,6 +4,8 @@
 
 - [CSS Art](https://css-art.com/) bir örnek özelleştirmeye çalışın ve Codepen linklerini bu repoya ekleyiniz. 
 
+https://codepen.io/sinankinav/details/yLVPqBB
+
 - Kullanılacak farklı icon kütüphanelerini araştırınız ve linklerini paylaşınız.
 https://www.iconfinder.com	
 
