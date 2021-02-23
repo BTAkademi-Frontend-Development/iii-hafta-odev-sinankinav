@@ -6,7 +6,9 @@
 
 - Kullanılacak farklı icon kütüphanelerini araştırınız ve linklerini paylaşınız.
 https://www.iconfinder.com	
+
 https://www.flaticon.com/	
+
 http://www.freepik.com/	
 
 - HTML ve CSS kullanarak:
