@@ -9,6 +9,7 @@ https://codepen.io/sinankinav/details/yLVPqBB
 https://codepen.io/sinankinav/pen/jOVapbj
 
 - Kullanılacak farklı icon kütüphanelerini araştırınız ve linklerini paylaşınız.
+
 https://www.iconfinder.com	
 
 https://www.flaticon.com/	
